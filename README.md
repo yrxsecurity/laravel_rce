@@ -5,6 +5,7 @@
 Laravel Remote Code Execution With APP_KEY
 
 ```
+$ pkg update && upgrade
 $ pkg install git
 $ php install php
 $ git clone https://github.com/yrxsecurity/laravel_rce
