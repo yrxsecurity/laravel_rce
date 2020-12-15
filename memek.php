@@ -165,9 +165,9 @@ class Exploit extends Requester
 }
 function Help() {
     echo "
-    url=URL // Target Required
+    url=URL // Link Target Nya Mek
     Optionals:
-    key=APP_KEY // Setting app key if u have
+    key=APP_KEY // Setting App Key Nya
     function=system // Function ex : system, passthru
     method=1 // method 1 - 4 Required function parameter, 5 - 6 ( Eval mode )
     ". PHP_EOL;
