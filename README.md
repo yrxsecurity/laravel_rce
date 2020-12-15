@@ -4,6 +4,7 @@
 ### Laravel_rce
 Laravel Remote Code Execution With APP_KEY
 
+Cara Penginstalan Tools Laravel_rce
 ```
 $ pkg update && upgrade
 $ pkg install git
