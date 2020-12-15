@@ -4,7 +4,13 @@
 ### Laravel_rce
 Laravel Remote Code Execution With APP_KEY
 
+Contoh : 
+```
+base64:SUY7yQiUf73A9+qE2mZZiKyd97K18wL/NLCtZfR3LQA=
+```
+
 Cara Penginstalan Tools Laravel_rce
+
 ```
 $ pkg update && upgrade
 $ pkg install git
