@@ -1,5 +1,5 @@
 ### Laravel_rce
-Laravel Remote Code Execution CLI
+Laravel Remote Code Execution With APP_KEY
 ```
 $ pkg install git
 $ php install php
